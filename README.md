@@ -91,6 +91,6 @@ Célula 3: Definição da função de telemetria IoT (consultar_telemetria_ollie
 Célula 4: Configuração das instruções do sistema (System Instructions), vinculação de ferramentas e execução do chat de testes.
 
 🎬 Apresentação e Demonstração Funcional
-Vídeo Pitch (YouTube): [Cole o Link do seu Vídeo Aqui (Modo Não Listado)]
+Vídeo Pitch (YouTube): https://youtu.be/PIrszpX-uFM
 
 Repositório GitHub: https://github.com/RuanLuca/Sprint-03-IOT
