@@ -93,4 +93,4 @@ Célula 4: Configuração das instruções do sistema (System Instructions), vin
 🎬 Apresentação e Demonstração Funcional
 Vídeo Pitch (YouTube): https://youtu.be/PIrszpX-uFM
 
-Repositório GitHub: https://github.com/RuanLuca/Sprint-03-IOT
+Repositório GitHub: https://github.com/Olli-Pet/challenge_clyvo_arduino
